@@ -6689,7 +6689,7 @@
     (property "Value" "MX-NoLED" (at 266.3132 143.51 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Alps_Only:ALPS-1U" (at 249.555 147.955 0)
+    (property "Footprint" "Alps_Only:ALPS-2U" (at 249.555 147.955 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 249.555 147.955 0)
