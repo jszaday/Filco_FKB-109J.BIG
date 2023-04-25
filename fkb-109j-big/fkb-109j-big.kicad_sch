@@ -2729,7 +2729,7 @@
   (symbol (lib_id "Diode:1N4148") (at 226.06 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0065375e-da50-452a-9a1e-c1d11a7812b6)
-    (property "Reference" "D97" (at 228.6 33.655 90)
+    (property "Reference" "D85" (at 228.6 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 36.195 90)
@@ -2752,7 +2752,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D97") (unit 1)
+          (reference "D85") (unit 1)
         )
       )
     )
@@ -2761,7 +2761,7 @@
   (symbol (lib_id "Diode:1N4148") (at 124.46 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 01290ac2-00ba-4222-9b9a-3476324813ff)
-    (property "Reference" "D53" (at 127 133.985 90)
+    (property "Reference" "D52" (at 127 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 127 136.525 90)
@@ -2784,7 +2784,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D53") (unit 1)
+          (reference "D52") (unit 1)
         )
       )
     )
@@ -2845,7 +2845,7 @@
   (symbol (lib_id "Diode:1N4148") (at 60.96 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04430bf0-35c9-4236-9307-c88ef350c308)
-    (property "Reference" "D24" (at 63.5 154.305 90)
+    (property "Reference" "D23" (at 63.5 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 63.5 156.845 90)
@@ -2868,7 +2868,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D24") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -2903,7 +2903,7 @@
   (symbol (lib_id "Diode:1N4148") (at 86.36 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0619a74e-a52a-40a5-a23b-bf3155a2a6d5)
-    (property "Reference" "D34" (at 88.9 113.665 90)
+    (property "Reference" "D33" (at 88.9 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 88.9 116.205 90)
@@ -2926,7 +2926,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D34") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -2961,7 +2961,7 @@
   (symbol (lib_id "Diode:1N4148") (at 264.16 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09a953e3-d2e9-46b9-bf28-62ebf19aeacf)
-    (property "Reference" "D84" (at 266.7 133.985 90)
+    (property "Reference" "D97" (at 266.7 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 266.7 136.525 90)
@@ -2984,7 +2984,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D84") (unit 1)
+          (reference "D97") (unit 1)
         )
       )
     )
@@ -3045,7 +3045,7 @@
   (symbol (lib_id "Diode:1N4148") (at 162.56 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0caa9ab5-d754-4661-aba1-c115bce89e28)
-    (property "Reference" "D68" (at 165.1 73.025 90)
+    (property "Reference" "D67" (at 165.1 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 165.1 75.565 90)
@@ -3068,7 +3068,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D68") (unit 1)
+          (reference "D67") (unit 1)
         )
       )
     )
@@ -3207,7 +3207,7 @@
   (symbol (lib_id "Diode:1N4148") (at 60.96 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 13b4d043-f8c0-48ac-a715-099eaf6ffbd7)
-    (property "Reference" "D3" (at 63.5 33.655 90)
+    (property "Reference" "D18" (at 63.5 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 63.5 36.195 90)
@@ -3230,7 +3230,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D3") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -3265,7 +3265,7 @@
   (symbol (lib_id "Diode:1N4148") (at 86.36 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1429be77-331a-4366-8737-cd6cf6a7f66e)
-    (property "Reference" "D36" (at 88.9 154.305 90)
+    (property "Reference" "D35" (at 88.9 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 88.9 156.845 90)
@@ -3288,7 +3288,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D36") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -3401,7 +3401,7 @@
   (symbol (lib_id "Diode:1N4148") (at 48.26 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a29786b-b82a-4985-b8ff-a8bffed3122a)
-    (property "Reference" "D13" (at 50.8 93.345 90)
+    (property "Reference" "D14" (at 50.8 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 95.885 90)
@@ -3424,7 +3424,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D13") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
@@ -3485,7 +3485,7 @@
   (symbol (lib_id "Diode:1N4148") (at 213.36 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d0a7c66-6993-4d66-b1d2-7c6f6bde0026)
-    (property "Reference" "D96" (at 215.9 154.305 90)
+    (property "Reference" "D84" (at 215.9 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 215.9 156.845 90)
@@ -3508,7 +3508,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D96") (unit 1)
+          (reference "D84") (unit 1)
         )
       )
     )
@@ -3543,7 +3543,7 @@
   (symbol (lib_id "Diode:1N4148") (at 276.86 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1dbf1d73-c278-46bd-9330-4f051484c5ee)
-    (property "Reference" "D89" (at 279.4 133.985 90)
+    (property "Reference" "D102" (at 279.4 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 279.4 136.525 90)
@@ -3566,7 +3566,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D89") (unit 1)
+          (reference "D102") (unit 1)
         )
       )
     )
@@ -3601,7 +3601,7 @@
   (symbol (lib_id "Diode:1N4148") (at 111.76 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ef8b6a2-f45c-45b1-825b-da0a99fdc74f)
-    (property "Reference" "D46" (at 114.3 113.665 90)
+    (property "Reference" "D45" (at 114.3 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 114.3 116.205 90)
@@ -3624,7 +3624,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D46") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -3633,7 +3633,7 @@
   (symbol (lib_id "Diode:1N4148") (at 175.26 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1f62bf78-7ddb-46c9-afd6-4cb40090e072)
-    (property "Reference" "D75" (at 177.8 93.345 90)
+    (property "Reference" "D73" (at 177.8 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 177.8 95.885 90)
@@ -3656,7 +3656,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D75") (unit 1)
+          (reference "D73") (unit 1)
         )
       )
     )
@@ -3717,7 +3717,7 @@
   (symbol (lib_id "Diode:1N4148") (at 99.06 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23ad715d-c083-42b5-9c2d-f8851f55de6b)
-    (property "Reference" "D41" (at 101.6 133.985 90)
+    (property "Reference" "D40" (at 101.6 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 101.6 136.525 90)
@@ -3740,7 +3740,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D41") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -3749,7 +3749,7 @@
   (symbol (lib_id "Diode:1N4148") (at 35.56 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 242a56ed-d36d-4b6c-b962-22045023e242)
-    (property "Reference" "D20" (at 38.1 154.305 90)
+    (property "Reference" "D11" (at 38.1 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 38.1 156.845 90)
@@ -3772,7 +3772,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D20") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -3885,7 +3885,7 @@
   (symbol (lib_id "Diode:1N4148") (at 162.56 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28daf8a1-06d5-4c14-bc17-bf513c9a7618)
-    (property "Reference" "D71" (at 165.1 133.985 90)
+    (property "Reference" "D70" (at 165.1 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 165.1 136.525 90)
@@ -3908,7 +3908,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D71") (unit 1)
+          (reference "D70") (unit 1)
         )
       )
     )
@@ -3943,7 +3943,7 @@
   (symbol (lib_id "Diode:1N4148") (at 86.36 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b8ce64c-9624-4d20-8e6f-cfc7d99475b9)
-    (property "Reference" "D25" (at 88.9 33.655 90)
+    (property "Reference" "D30" (at 88.9 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 88.9 36.195 90)
@@ -3966,7 +3966,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D25") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -3975,7 +3975,7 @@
   (symbol (lib_id "Diode:1N4148") (at 73.66 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e019398-cd60-4190-ab67-258d1d3e9aac)
-    (property "Reference" "D30" (at 76.2 154.305 90)
+    (property "Reference" "D29" (at 76.2 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 76.2 156.845 90)
@@ -3998,7 +3998,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D30") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -4033,7 +4033,7 @@
   (symbol (lib_id "Diode:1N4148") (at 73.66 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32987474-2561-442d-a4ef-4576caeecd6e)
-    (property "Reference" "D4" (at 76.2 33.655 90)
+    (property "Reference" "D24" (at 76.2 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 76.2 36.195 90)
@@ -4056,7 +4056,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D4") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -4091,7 +4091,7 @@
   (symbol (lib_id "Diode:1N4148") (at 73.66 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 335f39db-5aad-4acd-b799-a2b471635a3e)
-    (property "Reference" "D29" (at 76.2 133.985 90)
+    (property "Reference" "D28" (at 76.2 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 76.2 136.525 90)
@@ -4114,7 +4114,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D29") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -4123,7 +4123,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 338eaf2d-bb08-4177-a232-8d7435f84d80)
-    (property "Reference" "D55" (at 152.4 33.655 90)
+    (property "Reference" "D60" (at 152.4 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 152.4 36.195 90)
@@ -4146,7 +4146,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D55") (unit 1)
+          (reference "D60") (unit 1)
         )
       )
     )
@@ -4207,7 +4207,7 @@
   (symbol (lib_id "Diode:1N4148") (at 213.36 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 34debb5f-906f-4c18-8997-eb1c1767c850)
-    (property "Reference" "D93" (at 215.9 93.345 90)
+    (property "Reference" "D83" (at 215.9 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 215.9 95.885 90)
@@ -4230,7 +4230,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D93") (unit 1)
+          (reference "D83") (unit 1)
         )
       )
     )
@@ -4239,7 +4239,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 350fdce8-0497-4aa6-b357-69ca69a56bb7)
-    (property "Reference" "D64" (at 152.4 113.665 90)
+    (property "Reference" "D63" (at 152.4 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 152.4 116.205 90)
@@ -4262,7 +4262,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D64") (unit 1)
+          (reference "D63") (unit 1)
         )
       )
     )
@@ -4297,7 +4297,7 @@
   (symbol (lib_id "Diode:1N4148") (at 86.36 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 37e6a04c-977c-4a2d-affc-36b117711acb)
-    (property "Reference" "D35" (at 88.9 133.985 90)
+    (property "Reference" "D34" (at 88.9 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 88.9 136.525 90)
@@ -4320,7 +4320,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D35") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -4381,7 +4381,7 @@
   (symbol (lib_id "Diode:1N4148") (at 99.06 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 39e1e29d-6dac-4c38-9592-37f55ef4002f)
-    (property "Reference" "D38" (at 101.6 73.025 90)
+    (property "Reference" "D37" (at 101.6 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 101.6 75.565 90)
@@ -4404,7 +4404,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D38") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -4595,7 +4595,7 @@
   (symbol (lib_id "Diode:1N4148") (at 264.16 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 41acb407-9cea-42ff-86bb-3853b7fcab4f)
-    (property "Reference" "D80" (at 266.7 73.025 90)
+    (property "Reference" "D94" (at 266.7 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 266.7 75.565 90)
@@ -4618,7 +4618,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D80") (unit 1)
+          (reference "D94") (unit 1)
         )
       )
     )
@@ -4653,7 +4653,7 @@
   (symbol (lib_id "Diode:1N4148") (at 264.16 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4325f95c-b637-45b4-ab32-7075746ded0e)
-    (property "Reference" "D85" (at 266.7 154.305 90)
+    (property "Reference" "D98" (at 266.7 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 266.7 156.845 90)
@@ -4676,7 +4676,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D85") (unit 1)
+          (reference "D98") (unit 1)
         )
       )
     )
@@ -4737,7 +4737,7 @@
   (symbol (lib_id "Diode:1N4148") (at 111.76 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44bfeac7-1e25-4319-988d-cfbfa8c1af03)
-    (property "Reference" "D45" (at 114.3 93.345 90)
+    (property "Reference" "D44" (at 114.3 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 114.3 95.885 90)
@@ -4760,7 +4760,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D45") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -4795,7 +4795,7 @@
   (symbol (lib_id "Diode:1N4148") (at 137.16 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48592555-1710-46db-8b71-59e5309ece6b)
-    (property "Reference" "D57" (at 139.7 93.345 90)
+    (property "Reference" "D56" (at 139.7 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 95.885 90)
@@ -4818,7 +4818,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D57") (unit 1)
+          (reference "D56") (unit 1)
         )
       )
     )
@@ -4827,7 +4827,7 @@
   (symbol (lib_id "Diode:1N4148") (at 137.16 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48684349-9812-4a56-927b-f901d188e5a8)
-    (property "Reference" "D59" (at 139.7 133.985 90)
+    (property "Reference" "D58" (at 139.7 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 136.525 90)
@@ -4850,7 +4850,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D59") (unit 1)
+          (reference "D58") (unit 1)
         )
       )
     )
@@ -4859,7 +4859,7 @@
   (symbol (lib_id "Diode:1N4148") (at 111.76 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 498539e0-e730-457c-af2e-d0546c28f0bf)
-    (property "Reference" "D44" (at 114.3 73.025 90)
+    (property "Reference" "D43" (at 114.3 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 114.3 75.565 90)
@@ -4882,7 +4882,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D44") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -4917,7 +4917,7 @@
   (symbol (lib_id "Diode:1N4148") (at 302.26 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d36b5a5-c9fa-448b-a7ea-dbb40b4b02ea)
-    (property "Reference" "D110" (at 304.8 93.345 90)
+    (property "Reference" "D109" (at 304.8 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 304.8 95.885 90)
@@ -4940,7 +4940,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D110") (unit 1)
+          (reference "D109") (unit 1)
         )
       )
     )
@@ -4975,7 +4975,7 @@
   (symbol (lib_id "Diode:1N4148") (at 86.36 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f69303a-276d-4a40-a1d6-e4c0624a8a3a)
-    (property "Reference" "D32" (at 88.9 73.025 90)
+    (property "Reference" "D31" (at 88.9 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 88.9 75.565 90)
@@ -4998,7 +4998,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D32") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -5033,7 +5033,7 @@
   (symbol (lib_id "Diode:1N4148") (at 302.26 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4fd3f053-e679-4b66-8a82-b6270278041a)
-    (property "Reference" "D112" (at 304.8 133.985 90)
+    (property "Reference" "D111" (at 304.8 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 304.8 136.525 90)
@@ -5056,7 +5056,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D112") (unit 1)
+          (reference "D111") (unit 1)
         )
       )
     )
@@ -5065,7 +5065,7 @@
   (symbol (lib_id "Diode:1N4148") (at 276.86 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 506643ff-e860-4c14-b6b2-321121470b0c)
-    (property "Reference" "D86" (at 279.4 73.025 90)
+    (property "Reference" "D99" (at 279.4 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 279.4 75.565 90)
@@ -5088,7 +5088,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D86") (unit 1)
+          (reference "D99") (unit 1)
         )
       )
     )
@@ -5123,7 +5123,7 @@
   (symbol (lib_id "Diode:1N4148") (at 22.86 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54438f32-048e-470e-b5f3-6f9137f00c26)
-    (property "Reference" "D5" (at 25.4 73.025 90)
+    (property "Reference" "D2" (at 25.4 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 25.4 75.565 90)
@@ -5146,7 +5146,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D5") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -5181,7 +5181,7 @@
   (symbol (lib_id "Diode:1N4148") (at 213.36 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 56a2a0e3-954e-4cc4-93fb-50d3e7b5a482)
-    (property "Reference" "D91" (at 215.9 33.655 90)
+    (property "Reference" "D81" (at 215.9 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 215.9 36.195 90)
@@ -5204,7 +5204,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D91") (unit 1)
+          (reference "D81") (unit 1)
         )
       )
     )
@@ -5239,7 +5239,7 @@
   (symbol (lib_id "Diode:1N4148") (at 302.26 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 570238d0-12a9-435b-87b5-539f8af620f3)
-    (property "Reference" "D111" (at 304.8 113.665 90)
+    (property "Reference" "D110" (at 304.8 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 304.8 116.205 90)
@@ -5262,7 +5262,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D111") (unit 1)
+          (reference "D110") (unit 1)
         )
       )
     )
@@ -5323,7 +5323,7 @@
   (symbol (lib_id "Diode:1N4148") (at 238.76 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5dee53e1-0080-4ec6-8960-7ba1b4eed6bb)
-    (property "Reference" "D108" (at 241.3 154.305 90)
+    (property "Reference" "D93" (at 241.3 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 241.3 156.845 90)
@@ -5346,7 +5346,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D108") (unit 1)
+          (reference "D93") (unit 1)
         )
       )
     )
@@ -5355,7 +5355,7 @@
   (symbol (lib_id "Diode:1N4148") (at 162.56 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5fcb2c33-a732-4a5a-bf0b-08f81c7313a1)
-    (property "Reference" "D61" (at 165.1 33.655 90)
+    (property "Reference" "D66" (at 165.1 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 165.1 36.195 90)
@@ -5378,7 +5378,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D61") (unit 1)
+          (reference "D66") (unit 1)
         )
       )
     )
@@ -5465,7 +5465,7 @@
   (symbol (lib_id "Diode:1N4148") (at 99.06 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62a4cd63-2c03-45d5-91c5-928c9ad5c98c)
-    (property "Reference" "D39" (at 101.6 93.345 90)
+    (property "Reference" "D38" (at 101.6 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 101.6 95.885 90)
@@ -5488,7 +5488,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D39") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -5497,7 +5497,7 @@
   (symbol (lib_id "Diode:1N4148") (at 226.06 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6380ad3f-6f07-47c6-9379-76a6efa01894)
-    (property "Reference" "D99" (at 228.6 93.345 90)
+    (property "Reference" "D87" (at 228.6 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 95.885 90)
@@ -5520,7 +5520,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D99") (unit 1)
+          (reference "D87") (unit 1)
         )
       )
     )
@@ -5665,7 +5665,7 @@
   (symbol (lib_id "Diode:1N4148") (at 124.46 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6562a078-f7ab-4385-80b4-01198c20aa2b)
-    (property "Reference" "D50" (at 127 73.025 90)
+    (property "Reference" "D49" (at 127 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 127 75.565 90)
@@ -5688,7 +5688,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D50") (unit 1)
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -5723,7 +5723,7 @@
   (symbol (lib_id "Diode:1N4148") (at 238.76 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67b6ab6a-9e8a-4904-b9ae-54974c23a545)
-    (property "Reference" "D105" (at 241.3 93.345 90)
+    (property "Reference" "D92" (at 241.3 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 241.3 95.885 90)
@@ -5746,7 +5746,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D105") (unit 1)
+          (reference "D92") (unit 1)
         )
       )
     )
@@ -5833,7 +5833,7 @@
   (symbol (lib_id "Diode:1N4148") (at 187.96 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69205643-1f14-47af-ad03-93cb72efe87e)
-    (property "Reference" "D82" (at 190.5 133.985 90)
+    (property "Reference" "D80" (at 190.5 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 190.5 136.525 90)
@@ -5856,7 +5856,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D82") (unit 1)
+          (reference "D80") (unit 1)
         )
       )
     )
@@ -5891,7 +5891,7 @@
   (symbol (lib_id "Diode:1N4148") (at 48.26 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6a38b4f4-6836-4b95-91cd-001634a0e2a0)
-    (property "Reference" "D7" (at 50.8 73.025 90)
+    (property "Reference" "D13" (at 50.8 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 75.565 90)
@@ -5914,7 +5914,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D7") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -6027,7 +6027,7 @@
   (symbol (lib_id "Diode:1N4148") (at 276.86 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e0b9915-31ec-4860-95d5-16dabe198ea0)
-    (property "Reference" "D88" (at 279.4 113.665 90)
+    (property "Reference" "D101" (at 279.4 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 279.4 116.205 90)
@@ -6050,7 +6050,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D88") (unit 1)
+          (reference "D101") (unit 1)
         )
       )
     )
@@ -6085,7 +6085,7 @@
   (symbol (lib_id "Diode:1N4148") (at 238.76 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6ee52024-c841-4f62-abde-7fd87ea38576)
-    (property "Reference" "D103" (at 241.3 33.655 90)
+    (property "Reference" "D90" (at 241.3 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 241.3 36.195 90)
@@ -6108,7 +6108,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D103") (unit 1)
+          (reference "D90") (unit 1)
         )
       )
     )
@@ -6195,7 +6195,7 @@
   (symbol (lib_id "Diode:1N4148") (at 60.96 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 75d5d504-20cb-45db-bd80-2796a193ca64)
-    (property "Reference" "D23" (at 63.5 133.985 90)
+    (property "Reference" "D22" (at 63.5 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 63.5 136.525 90)
@@ -6218,7 +6218,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D23") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -6279,7 +6279,7 @@
   (symbol (lib_id "Diode:1N4148") (at 48.26 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a7229fc-a007-4ee4-95d6-da77b772ab64)
-    (property "Reference" "D14" (at 50.8 113.665 90)
+    (property "Reference" "D15" (at 50.8 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 116.205 90)
@@ -6302,7 +6302,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D14") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -6311,7 +6311,7 @@
   (symbol (lib_id "Diode:1N4148") (at 99.06 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ab7ab64-a110-49a6-8819-9ec491a6b79d)
-    (property "Reference" "D42" (at 101.6 154.305 90)
+    (property "Reference" "D41" (at 101.6 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 101.6 156.845 90)
@@ -6334,7 +6334,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D42") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -6343,7 +6343,7 @@
   (symbol (lib_id "Diode:1N4148") (at 111.76 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b40d50a-a17a-478b-be02-02053c015328)
-    (property "Reference" "D48" (at 114.3 154.305 90)
+    (property "Reference" "D47" (at 114.3 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 114.3 156.845 90)
@@ -6366,7 +6366,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D48") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -6375,7 +6375,7 @@
   (symbol (lib_id "Diode:1N4148") (at 187.96 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b7ecf55-279b-43c8-b29d-12cb5a287d80)
-    (property "Reference" "D79" (at 190.5 73.025 90)
+    (property "Reference" "D77" (at 190.5 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 190.5 75.565 90)
@@ -6398,7 +6398,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D79") (unit 1)
+          (reference "D77") (unit 1)
         )
       )
     )
@@ -6459,7 +6459,7 @@
   (symbol (lib_id "Diode:1N4148") (at 226.06 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e960a90-d810-4396-926e-6c0e1f32d21e)
-    (property "Reference" "D98" (at 228.6 73.025 90)
+    (property "Reference" "D86" (at 228.6 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 75.565 90)
@@ -6482,7 +6482,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D98") (unit 1)
+          (reference "D86") (unit 1)
         )
       )
     )
@@ -6517,7 +6517,7 @@
   (symbol (lib_id "Diode:1N4148") (at 175.26 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82017770-03a7-45de-95d6-17873033e683)
-    (property "Reference" "D67" (at 177.8 33.655 90)
+    (property "Reference" "D71" (at 177.8 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 177.8 36.195 90)
@@ -6540,7 +6540,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D67") (unit 1)
+          (reference "D71") (unit 1)
         )
       )
     )
@@ -6549,7 +6549,7 @@
   (symbol (lib_id "Diode:1N4148") (at 124.46 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 822a589c-7bed-416e-b1f3-0215dc9c5192)
-    (property "Reference" "D54" (at 127 154.305 90)
+    (property "Reference" "D53" (at 127 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 127 156.845 90)
@@ -6572,7 +6572,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D54") (unit 1)
+          (reference "D53") (unit 1)
         )
       )
     )
@@ -6711,7 +6711,7 @@
   (symbol (lib_id "Diode:1N4148") (at 289.56 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 86f65271-2fb3-48a1-9e10-4c53f90d5420)
-    (property "Reference" "D100" (at 292.1 113.665 90)
+    (property "Reference" "D105" (at 292.1 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 292.1 116.205 90)
@@ -6734,7 +6734,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D100") (unit 1)
+          (reference "D105") (unit 1)
         )
       )
     )
@@ -6769,7 +6769,7 @@
   (symbol (lib_id "Diode:1N4148") (at 289.56 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 887ad4e5-5f62-42f6-8f26-c815b9732501)
-    (property "Reference" "D94" (at 292.1 73.025 90)
+    (property "Reference" "D103" (at 292.1 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 292.1 75.565 90)
@@ -6792,7 +6792,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D94") (unit 1)
+          (reference "D103") (unit 1)
         )
       )
     )
@@ -6853,7 +6853,7 @@
   (symbol (lib_id "Diode:1N4148") (at 264.16 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b00ba57-a352-44c3-b9b9-5092e9342222)
-    (property "Reference" "D83" (at 266.7 113.665 90)
+    (property "Reference" "D96" (at 266.7 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 266.7 116.205 90)
@@ -6876,7 +6876,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D83") (unit 1)
+          (reference "D96") (unit 1)
         )
       )
     )
@@ -6911,7 +6911,7 @@
   (symbol (lib_id "Diode:1N4148") (at 137.16 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8bc62669-cf9c-4df5-8a9f-24c86aadb028)
-    (property "Reference" "D56" (at 139.7 73.025 90)
+    (property "Reference" "D55" (at 139.7 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 75.565 90)
@@ -6934,7 +6934,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D56") (unit 1)
+          (reference "D55") (unit 1)
         )
       )
     )
@@ -6943,7 +6943,7 @@
   (symbol (lib_id "Diode:1N4148") (at 60.96 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c36a3c4-adc7-44ef-ae25-9a9436f4b31d)
-    (property "Reference" "D8" (at 63.5 73.025 90)
+    (property "Reference" "D19" (at 63.5 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 63.5 75.565 90)
@@ -6966,7 +6966,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D8") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -6975,7 +6975,7 @@
   (symbol (lib_id "Diode:1N4148") (at 86.36 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ca2c5f2-0c3c-4eb0-9814-f28072ed257a)
-    (property "Reference" "D33" (at 88.9 93.345 90)
+    (property "Reference" "D32" (at 88.9 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 88.9 95.885 90)
@@ -6998,7 +6998,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D33") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -7007,7 +7007,7 @@
   (symbol (lib_id "Diode:1N4148") (at 175.26 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8dab1a69-b710-4ea1-9eb9-dea79a783e13)
-    (property "Reference" "D74" (at 177.8 73.025 90)
+    (property "Reference" "D72" (at 177.8 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 177.8 75.565 90)
@@ -7030,7 +7030,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D74") (unit 1)
+          (reference "D72") (unit 1)
         )
       )
     )
@@ -7091,7 +7091,7 @@
   (symbol (lib_id "Diode:1N4148") (at 264.16 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 922854a5-ee52-4ca8-b92c-5f806dec4178)
-    (property "Reference" "D81" (at 266.7 93.345 90)
+    (property "Reference" "D95" (at 266.7 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 266.7 95.885 90)
@@ -7114,7 +7114,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D81") (unit 1)
+          (reference "D95") (unit 1)
         )
       )
     )
@@ -7279,7 +7279,7 @@
   (symbol (lib_id "Diode:1N4148") (at 35.56 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 96e3d5cc-5aa6-4126-88d3-cc46ad6a3344)
-    (property "Reference" "D12" (at 38.1 113.665 90)
+    (property "Reference" "D9" (at 38.1 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 38.1 116.205 90)
@@ -7302,7 +7302,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D12") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -7337,7 +7337,7 @@
   (symbol (lib_id "Diode:1N4148") (at 73.66 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 996d7914-9bd2-42d0-b5c9-009bd8d12f3c)
-    (property "Reference" "D27" (at 76.2 93.345 90)
+    (property "Reference" "D26" (at 76.2 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 76.2 95.885 90)
@@ -7360,7 +7360,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D27") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -7369,7 +7369,7 @@
   (symbol (lib_id "Diode:1N4148") (at 48.26 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 999f42dc-bdb7-4cdf-9c15-a80fa99a86bc)
-    (property "Reference" "D22" (at 50.8 154.305 90)
+    (property "Reference" "D17" (at 50.8 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 156.845 90)
@@ -7392,7 +7392,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D22") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -7401,7 +7401,7 @@
   (symbol (lib_id "Diode:1N4148") (at 175.26 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 99f9142c-d4a7-478e-b082-3fa46eb29e57)
-    (property "Reference" "D77" (at 177.8 133.985 90)
+    (property "Reference" "D75" (at 177.8 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 177.8 136.525 90)
@@ -7424,7 +7424,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D77") (unit 1)
+          (reference "D75") (unit 1)
         )
       )
     )
@@ -7459,7 +7459,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b55628a-fc07-4a8e-a5e9-1f5b25edcf3e)
-    (property "Reference" "D65" (at 152.4 133.985 90)
+    (property "Reference" "D64" (at 152.4 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 152.4 136.525 90)
@@ -7482,7 +7482,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D65") (unit 1)
+          (reference "D64") (unit 1)
         )
       )
     )
@@ -7575,7 +7575,7 @@
   (symbol (lib_id "Diode:1N4148") (at 48.26 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a1345587-3ed1-4a66-9bb2-5bcb60245b37)
-    (property "Reference" "D21" (at 50.8 133.985 90)
+    (property "Reference" "D16" (at 50.8 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 136.525 90)
@@ -7598,7 +7598,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D21") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -7789,7 +7789,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5e3a95c-df91-412d-b2c9-cdb9ca125f5c)
-    (property "Reference" "D62" (at 152.4 73.025 90)
+    (property "Reference" "D61" (at 152.4 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 152.4 75.565 90)
@@ -7812,7 +7812,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D62") (unit 1)
+          (reference "D61") (unit 1)
         )
       )
     )
@@ -7873,7 +7873,7 @@
   (symbol (lib_id "Diode:1N4148") (at 60.96 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a7270a2e-5103-4aa5-9487-83f0ab4e5f1a)
-    (property "Reference" "D16" (at 63.5 113.665 90)
+    (property "Reference" "D21" (at 63.5 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 63.5 116.205 90)
@@ -7896,7 +7896,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D16") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -7983,7 +7983,7 @@
   (symbol (lib_id "Diode:1N4148") (at 99.06 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab56bc44-decf-4be7-a60d-47609f0c04c9)
-    (property "Reference" "D40" (at 101.6 113.665 90)
+    (property "Reference" "D39" (at 101.6 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 101.6 116.205 90)
@@ -8006,7 +8006,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D40") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -8015,7 +8015,7 @@
   (symbol (lib_id "Diode:1N4148") (at 35.56 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab5cf929-5b7e-4dba-9aef-2bfccbb3ee34)
-    (property "Reference" "D19" (at 38.1 133.985 90)
+    (property "Reference" "D10" (at 38.1 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 38.1 136.525 90)
@@ -8038,7 +8038,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D19") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -8177,7 +8177,7 @@
   (symbol (lib_id "Diode:1N4148") (at 302.26 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b1df5572-b359-43f6-ab52-ca96a7b290d7)
-    (property "Reference" "D109" (at 304.8 73.025 90)
+    (property "Reference" "D108" (at 304.8 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 304.8 75.565 90)
@@ -8200,7 +8200,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D109") (unit 1)
+          (reference "D108") (unit 1)
         )
       )
     )
@@ -8235,7 +8235,7 @@
   (symbol (lib_id "Diode:1N4148") (at 35.56 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b54debf1-0474-4222-8f8d-8730607acf41)
-    (property "Reference" "D6" (at 38.1 73.025 90)
+    (property "Reference" "D7" (at 38.1 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 38.1 75.565 90)
@@ -8258,7 +8258,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D6") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -8267,7 +8267,7 @@
   (symbol (lib_id "Diode:1N4148") (at 124.46 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b71a8a39-0931-4ce9-b2c1-86f7a0314ddf)
-    (property "Reference" "D51" (at 127 93.345 90)
+    (property "Reference" "D50" (at 127 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 127 95.885 90)
@@ -8290,7 +8290,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D51") (unit 1)
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -8325,7 +8325,7 @@
   (symbol (lib_id "Diode:1N4148") (at 35.56 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b93ca490-8f9c-49a1-89c3-16e629e45fd1)
-    (property "Reference" "D11" (at 38.1 93.345 90)
+    (property "Reference" "D8" (at 38.1 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 38.1 95.885 90)
@@ -8348,7 +8348,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D11") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -8409,7 +8409,7 @@
   (symbol (lib_id "Diode:1N4148") (at 226.06 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid babaa51f-790d-4216-bcf8-764cd0ffc63f)
-    (property "Reference" "D101" (at 228.6 133.985 90)
+    (property "Reference" "D88" (at 228.6 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 136.525 90)
@@ -8432,7 +8432,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D101") (unit 1)
+          (reference "D88") (unit 1)
         )
       )
     )
@@ -8467,7 +8467,7 @@
   (symbol (lib_id "Diode:1N4148") (at 175.26 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bbcac2ad-5bb9-45bf-a6a0-b6c42f65b7ba)
-    (property "Reference" "D76" (at 177.8 113.665 90)
+    (property "Reference" "D74" (at 177.8 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 177.8 116.205 90)
@@ -8490,7 +8490,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D76") (unit 1)
+          (reference "D74") (unit 1)
         )
       )
     )
@@ -8527,7 +8527,7 @@
   (symbol (lib_id "Diode:1N4148") (at 22.86 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be33972e-cda3-48e6-ab96-8c35fc8e5ca2)
-    (property "Reference" "D18" (at 25.4 154.305 90)
+    (property "Reference" "D6" (at 25.4 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 25.4 156.845 90)
@@ -8550,7 +8550,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D18") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -8559,7 +8559,7 @@
   (symbol (lib_id "Diode:1N4148") (at 99.06 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be4442c3-fe49-454f-9f95-d88aa573caef)
-    (property "Reference" "D31" (at 101.6 33.655 90)
+    (property "Reference" "D36" (at 101.6 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 101.6 36.195 90)
@@ -8582,7 +8582,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D31") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -8643,7 +8643,7 @@
   (symbol (lib_id "Diode:1N4148") (at 187.96 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bfb32585-2a95-44a9-82a9-d9e01b51f58d)
-    (property "Reference" "D73" (at 190.5 33.655 90)
+    (property "Reference" "D76" (at 190.5 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 190.5 36.195 90)
@@ -8666,7 +8666,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D73") (unit 1)
+          (reference "D76") (unit 1)
         )
       )
     )
@@ -8753,7 +8753,7 @@
   (symbol (lib_id "Diode:1N4148") (at 124.46 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2065084-632b-4f7f-a26f-8bfeb9c58b6f)
-    (property "Reference" "D52" (at 127 113.665 90)
+    (property "Reference" "D51" (at 127 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 127 116.205 90)
@@ -8776,7 +8776,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D52") (unit 1)
+          (reference "D51") (unit 1)
         )
       )
     )
@@ -8837,7 +8837,7 @@
   (symbol (lib_id "Diode:1N4148") (at 162.56 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c408e6a0-edd7-4e23-a1e6-4dacb9b1fd50)
-    (property "Reference" "D70" (at 165.1 113.665 90)
+    (property "Reference" "D69" (at 165.1 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 165.1 116.205 90)
@@ -8860,7 +8860,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D70") (unit 1)
+          (reference "D69") (unit 1)
         )
       )
     )
@@ -8895,7 +8895,7 @@
   (symbol (lib_id "Diode:1N4148") (at 137.16 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c441ef5e-b7d6-4cc3-a5d6-709e4de60af6)
-    (property "Reference" "D58" (at 139.7 113.665 90)
+    (property "Reference" "D57" (at 139.7 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 116.205 90)
@@ -8918,7 +8918,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D58") (unit 1)
+          (reference "D57") (unit 1)
         )
       )
     )
@@ -9031,7 +9031,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca4433e5-74bb-4cc5-951b-33b68b534a7b)
-    (property "Reference" "D63" (at 152.4 93.345 90)
+    (property "Reference" "D62" (at 152.4 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 152.4 95.885 90)
@@ -9054,7 +9054,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D63") (unit 1)
+          (reference "D62") (unit 1)
         )
       )
     )
@@ -9089,7 +9089,7 @@
   (symbol (lib_id "Diode:1N4148") (at 137.16 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cb9d0b86-a3e5-4e35-8e48-599dd4bd153b)
-    (property "Reference" "D49" (at 139.7 33.655 90)
+    (property "Reference" "D54" (at 139.7 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 36.195 90)
@@ -9112,7 +9112,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D49") (unit 1)
+          (reference "D54") (unit 1)
         )
       )
     )
@@ -9251,7 +9251,7 @@
   (symbol (lib_id "Diode:1N4148") (at 187.96 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d0c777b1-a421-4f09-8a1c-d0e29f499291)
-    (property "Reference" "D72" (at 190.5 113.665 90)
+    (property "Reference" "D79" (at 190.5 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 190.5 116.205 90)
@@ -9274,7 +9274,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D72") (unit 1)
+          (reference "D79") (unit 1)
         )
       )
     )
@@ -9283,7 +9283,7 @@
   (symbol (lib_id "Diode:1N4148") (at 22.86 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d0f4e516-b465-4f44-8589-e8d65c246bea)
-    (property "Reference" "D9" (at 25.4 93.345 90)
+    (property "Reference" "D3" (at 25.4 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 25.4 95.885 90)
@@ -9306,7 +9306,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D9") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -9315,7 +9315,7 @@
   (symbol (lib_id "Diode:1N4148") (at 124.46 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d233936c-1192-4dfc-8140-91af586648d6)
-    (property "Reference" "D43" (at 127 33.655 90)
+    (property "Reference" "D48" (at 127 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 127 36.195 90)
@@ -9338,7 +9338,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D43") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -9451,7 +9451,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5d5082c-ea3b-4a44-81a1-8cfd03d30e8f)
-    (property "Reference" "D66" (at 152.4 154.305 90)
+    (property "Reference" "D65" (at 152.4 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 152.4 156.845 90)
@@ -9474,7 +9474,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D66") (unit 1)
+          (reference "D65") (unit 1)
         )
       )
     )
@@ -9723,7 +9723,7 @@
   (symbol (lib_id "Diode:1N4148") (at 137.16 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dcaa7205-1fad-4e18-af53-75dd3e377125)
-    (property "Reference" "D60" (at 139.7 154.305 90)
+    (property "Reference" "D59" (at 139.7 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 156.845 90)
@@ -9746,7 +9746,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D60") (unit 1)
+          (reference "D59") (unit 1)
         )
       )
     )
@@ -9755,7 +9755,7 @@
   (symbol (lib_id "Diode:1N4148") (at 226.06 154.94 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dcafdb23-a559-4355-ae5a-da8848d6cbb2)
-    (property "Reference" "D102" (at 228.6 154.305 90)
+    (property "Reference" "D89" (at 228.6 154.305 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 156.845 90)
@@ -9778,7 +9778,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D102") (unit 1)
+          (reference "D89") (unit 1)
         )
       )
     )
@@ -9787,7 +9787,7 @@
   (symbol (lib_id "Diode:1N4148") (at 238.76 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd17adee-a9da-4cc3-9d28-e88f7de6f4a0)
-    (property "Reference" "D104" (at 241.3 73.025 90)
+    (property "Reference" "D91" (at 241.3 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 241.3 75.565 90)
@@ -9810,7 +9810,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D104") (unit 1)
+          (reference "D91") (unit 1)
         )
       )
     )
@@ -9871,7 +9871,7 @@
   (symbol (lib_id "Diode:1N4148") (at 73.66 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df9a73e5-cbfa-46e8-9ab4-deed900f2b38)
-    (property "Reference" "D28" (at 76.2 113.665 90)
+    (property "Reference" "D27" (at 76.2 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 76.2 116.205 90)
@@ -9894,7 +9894,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D28") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -9903,7 +9903,7 @@
   (symbol (lib_id "Diode:1N4148") (at 276.86 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dfa8ac78-088b-4bc1-bd4d-3fee7123b710)
-    (property "Reference" "D87" (at 279.4 93.345 90)
+    (property "Reference" "D100" (at 279.4 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 279.4 95.885 90)
@@ -9926,7 +9926,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D87") (unit 1)
+          (reference "D100") (unit 1)
         )
       )
     )
@@ -10019,7 +10019,7 @@
   (symbol (lib_id "Diode:1N4148") (at 213.36 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e2b71fd8-8c3f-4847-ab1a-ac66f04e75dc)
-    (property "Reference" "D92" (at 215.9 73.025 90)
+    (property "Reference" "D82" (at 215.9 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 215.9 75.565 90)
@@ -10042,7 +10042,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D92") (unit 1)
+          (reference "D82") (unit 1)
         )
       )
     )
@@ -10157,7 +10157,7 @@
   (symbol (lib_id "Diode:1N4148") (at 60.96 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e7a4e5dd-4faa-4c59-898b-5302ec2cc8d9)
-    (property "Reference" "D15" (at 63.5 93.345 90)
+    (property "Reference" "D20" (at 63.5 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 63.5 95.885 90)
@@ -10180,7 +10180,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D15") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -10215,7 +10215,7 @@
   (symbol (lib_id "Diode:1N4148") (at 162.56 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea12204c-8b03-4eb0-9091-2421831f8fab)
-    (property "Reference" "D69" (at 165.1 93.345 90)
+    (property "Reference" "D68" (at 165.1 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 165.1 95.885 90)
@@ -10238,7 +10238,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D69") (unit 1)
+          (reference "D68") (unit 1)
         )
       )
     )
@@ -10299,7 +10299,7 @@
   (symbol (lib_id "Diode:1N4148") (at 48.26 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec46ba8e-7860-470e-9cc9-7a3c1e2301a5)
-    (property "Reference" "D2" (at 50.8 33.655 90)
+    (property "Reference" "D12" (at 50.8 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 36.195 90)
@@ -10322,7 +10322,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D2") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -10435,7 +10435,7 @@
   (symbol (lib_id "Diode:1N4148") (at 289.56 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4d563f0-a6ee-4527-a556-ccad56f1fd97)
-    (property "Reference" "D95" (at 292.1 93.345 90)
+    (property "Reference" "D104" (at 292.1 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 292.1 95.885 90)
@@ -10458,7 +10458,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D95") (unit 1)
+          (reference "D104") (unit 1)
         )
       )
     )
@@ -10467,7 +10467,7 @@
   (symbol (lib_id "Diode:1N4148") (at 22.86 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f53ebe47-0d5b-4bed-a5fa-ef620caf53e0)
-    (property "Reference" "D17" (at 25.4 133.985 90)
+    (property "Reference" "D5" (at 25.4 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 25.4 136.525 90)
@@ -10490,7 +10490,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D17") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -10551,7 +10551,7 @@
   (symbol (lib_id "Diode:1N4148") (at 22.86 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f90a5e58-022c-4c91-8315-367e0972cbed)
-    (property "Reference" "D10" (at 25.4 113.665 90)
+    (property "Reference" "D4" (at 25.4 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 25.4 116.205 90)
@@ -10574,7 +10574,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D10") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -10609,7 +10609,7 @@
   (symbol (lib_id "Diode:1N4148") (at 111.76 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f93cbcb6-36f9-4570-970e-6dd569a53f12)
-    (property "Reference" "D37" (at 114.3 33.655 90)
+    (property "Reference" "D42" (at 114.3 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 114.3 36.195 90)
@@ -10632,7 +10632,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D37") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -10745,7 +10745,7 @@
   (symbol (lib_id "Diode:1N4148") (at 73.66 73.66 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc8d83a8-c97b-45b8-a39b-8268f0f1bdd0)
-    (property "Reference" "D26" (at 76.2 73.025 90)
+    (property "Reference" "D25" (at 76.2 73.025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 76.2 75.565 90)
@@ -10768,7 +10768,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D26") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -10803,7 +10803,7 @@
   (symbol (lib_id "Diode:1N4148") (at 111.76 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd3720a2-9531-4479-a4b2-bd21fde47c48)
-    (property "Reference" "D47" (at 114.3 133.985 90)
+    (property "Reference" "D46" (at 114.3 133.985 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 114.3 136.525 90)
@@ -10826,7 +10826,7 @@
     (instances
       (project "fkb-109j-big"
         (path "/b3d18fbb-85f6-4085-bc49-223707581c3b"
-          (reference "D47") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
