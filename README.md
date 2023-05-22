@@ -19,4 +19,4 @@ Back:
 
 #### Known Issues
 - DELL AT101 support impeded by unpopable popout between RAlt and RCtrl.
-- ISO Enter in wrong position (1.5u vs. 1u).
+- ISO Enter in wrong position (1.5u vs. 1u); can fold down leads of switch to compensate.
