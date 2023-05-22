@@ -20,5 +20,5 @@ Back:
 #### Known Issues
 - DELL AT101 support impeded by unpopable popout between RAlt and RCtrl.
 - ISO Enter in wrong position (1.5u vs. 1u); can fold down leads of switch to compensate.
-- Num pad plus and enter key switches flipped 90 degrees.
+- Num pad plus and enter key switches rotated 180° (not a significant issue).
 - No LED carrier board.
