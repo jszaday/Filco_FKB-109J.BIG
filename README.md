@@ -1,5 +1,5 @@
-# Filco_FKB-109J.BIG
-Retrofit PCB for Strong Man SMK-8851 and related full-sized keyboards.
+# Universa Universis
+Retrofit PCB for various Alps full-sized keyboards.
 
 ## Planned support:
 - AEK (US, EUR, JPN)
