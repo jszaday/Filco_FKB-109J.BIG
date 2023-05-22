@@ -2,9 +2,9 @@
 Retrofit PCB for various Alps full-sized keyboards.
 
 ## Planned support:
-- AEK (US, EUR, JPN)
-- DELL AT101W (US, EUR, JPN)
-- DELL AT101 (_READ BELOW._)
+- AEK (ANSI, EUR, JPN)
+- DELL AT101W (ANSI, EUR, JPN)
+- DELL AT101 (ANSI, EUR, JPN)
 - Strong Man SMK-8851 (BAE, JPN)
 
 ## Version History:
